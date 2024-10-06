@@ -1,6 +1,6 @@
 # Mission Demolition - Evan Bohler
 ✓ Correct Unity Gitignore  
-✓ Game over screen with play again button  
+✓ Game over screen with play again button (and victory screen for completing all 4 levels)  
 ✓ 4 levels with castles different from book  
 ✓ Line renderer to draw rubber band when holding mouse button  
 ✓ Slingshot firing sound  
